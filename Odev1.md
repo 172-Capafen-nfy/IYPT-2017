@@ -4,13 +4,19 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-E  | Nisanur KENAR   | 357
+10-E  | Yasemin SEVİNÇTEKİN | 437
+10-E  | Feyza Naz ÇEBİ | 111
 
-#  (buraya proje başlığını yazınız)
+#  Colour Of Powder
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
-
+      Biz problem olarak International Young Physicists' Tournament 2018 yılının ikinci sorusu olan "Colour of Powder"ı seçtik. Çeşitli materyallerin toz haline geldiğinde ortaya çıkan durumlarda renk değişikliği gözlemlendiğini biliyoruz. Biz de bu yüzden materyallerin öğütülme derecelerine göre verilen tepkideki renklerin nasıl etkilendiğini gözlemleyeceğiz. 
+     Bu proje aslında kromizm ve mekakromizm ile alakalı bir sorun. Kromizm, maddenin çeşitli uyarıcılar sonucunda geri dönüşümlü ya da kalıcı olarak renk değişikliğine uğrama projesidir. Bunun ısıya,ışığa bağlı alt dalları vardır. Mekakromizm ise katı haldeki kimyasalların sürtünme ile öğütülme derecelerine göre stresle renk değiştirmeleridir. Bu tepkiler moleküler yapı değişiklikleri, yapısal yeniden düzenlemeler veya moleküller arası etkileşimlerin bozulmasından kaynaklanır. Mekanik krom materikler (anakaya), mekanik materyalin uygulanmasına tepki olarak bir "optik tepki" veren malzemeler, bu materyal sınıfının önemli bir alt grubunu temsil eder.
+     Mekanik zorlamaları, seçici ve güvenilir bir şekilde ifade edebilme özelliği, patlamadan yapısal sağlığa kadar uzanan alanlarda teknolojik uygulamalar için de yararlıdır.
+     Yansıtma oranındaki değişiklikler genellikle tanımlanan nanoyapıların mekanik manipülasyonların ve buna bağlı fotonik etkilerin sonucudur. Japonya'da Hokkaido Üniversitesinde bir bilim adamı ekibi kırk sekiz altın atomu içeren kırk sekiz organik bileşik; uyarılma üzerine mavi, yeşil, sarı ve turuncu gibi değişen renkler yayan yirmi sekizinin mekakromik olduğu ortaya çıkan altın(I)izosiyanit kompleksleri sentezledi.
+     Yazar Hajime Ito araştırdığımız konu ve Japonya'daki bilim adamı ekibinin bulgusu için "Bununla bir sensör geliştirildiğinde hücresel hareketler ve benzeri mekanizmaların tanımlanmasında katkıda bulunacaktır." diye görüşünü belirtiyor.
+     Biz de içerisinde altın ya da krom olan materyalleri çekiç ya da öğütme aletiyle toz haline getirerek verdikleri tepkide renk değişimlerinin nasıl olduğunu gözlemleyeceğiz. Kullandığımız alete göre her bir çekiç vuruşuna bir birim ya da öğütme aletiyle her bir çevirmeyi bir birim olarak adlandıracağız. Öğütülme derecelerine göre renklerini sınıflandıracağız.
+     
 ## Kaynakçalar  
 Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
 
