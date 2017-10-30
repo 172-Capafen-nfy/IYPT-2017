@@ -19,4 +19,6 @@ Sınıf | Öğrenci İsmi  | Numara
  1.https://phys.org/news/2016-07-colours.html
 Son erişim tarihi: 29 Ekim 2017
 2. http://onlinelibrary.wiley.com/doi/10.1002/pola.28445/full
+Son erişim tarihi: 30 Ekim 2017
 3. https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-36199-9_6-4
+Son erişim tarihi: 29 Ekim 2017
