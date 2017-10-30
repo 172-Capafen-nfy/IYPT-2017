@@ -4,8 +4,8 @@ Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
 10-E  | Nisanur KENAR   | 357
 10-E  | Yasemin SEVİNÇTEKİN | 437
-10-E  | Feyza Naz ÇEBİ | 111
-
+10-E  | Feyza Naz ÇEBİ | 361
+10-E  | Emrecan DÖNMEZ | 490
 #  Colour Of Powder
 ## Özet
       Biz problem olarak International Young Physicists' Tournament 2018 yılının ikinci sorusu olan "Colour of Powder"ı seçtik. Çeşitli materyallerin toz haline geldiğinde ortaya çıkan durumlarda renk değişikliği gözlemlendiğini biliyoruz. Biz de bu yüzden materyallerin öğütülme derecelerine göre verilen tepkideki renklerin nasıl etkilendiğini gözlemleyeceğiz. 
@@ -18,4 +18,5 @@ Sınıf | Öğrenci İsmi  | Numara
 ## Kaynakçalar
  1.https://phys.org/news/2016-07-colours.html
 Son erişim tarihi: 29 Ekim 2017
-
+2. http://onlinelibrary.wiley.com/doi/10.1002/pola.28445/full
+3. https://link.springer.com/referenceworkentry/10.1007%2F978-3-642-36199-9_6-4
